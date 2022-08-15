@@ -1,5 +1,5 @@
 import React from 'react'
-import{ OverlayTrigger, Popover, Tooltip } from "react-bootstrap";
+import{ OverlayTrigger, Popover } from "react-bootstrap";
 
 const Header = () => {
   
