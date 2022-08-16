@@ -16,7 +16,7 @@ const Header = () => {
     <>
       <nav className="navbar navbar-dark bg-dark">
         <div className="container-fluid">
-          <a className="navbar-brand mb-0 p-3 h1" href="../App.js">Gallery App</a>
+          <a className="navbar-brand mb-0 p-3 h1">Gallery App</a>
           <OverlayTrigger placement={'left'} delay={{ show: 250, hide: 400 }} overlay={popover}>
             <a className="bi bi-question-lg"></a>
           </OverlayTrigger>
